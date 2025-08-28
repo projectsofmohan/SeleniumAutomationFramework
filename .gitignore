@@ -35,6 +35,8 @@
 *.ear
 *.zip
 *.tar.gz
+*.png
+*.html
 
 *.rar
 hs_err_pid*
